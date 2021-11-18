@@ -6,4 +6,3 @@
 
 
 
-[![LuMarans30's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuMarans30)](https://github.com/LuMarans30/github-readme-stats)
