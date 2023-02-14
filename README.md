@@ -1,14 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/particlesjs@2.2.3/dist/particles.min.js">
-  
-</script>
-
-<script>
-  particlesJS.load('particles-js', 'particles.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
-</script>
-
-<div id="particles-js">
 
 ![LuMarans30's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuMarans30&show_icons=true&theme=dracula)
 
@@ -20,4 +9,3 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg">
 </picture>
   
-</div>
