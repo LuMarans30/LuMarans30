@@ -1,3 +1,10 @@
+<a href="https://github.com/LuMarans30/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuMarans30&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/LuMarans30/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuMarans30&repo=convoychat" />
+</a>
+
 ![LuMarans30's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuMarans30&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuMarans30&layout=compact)](https://github.com/LuMarans30/github-readme-stats)
