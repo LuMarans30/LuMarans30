@@ -8,7 +8,7 @@
 	<img alt="github-snake" src="github-contribution-grid-snake.svg">
 </picture>
   
-<div align="center">
+<div style="position: absolute; top:0px; bottom:0px; width: 100%" align="center">
 	<br>
 	<a href="#">
 		<img width="1920px" height="1080px" src="https://64.media.tumblr.com/f74d7cc35e3c4ed6fc11f560fe38b2a7/tumblr_inline_ny82m7qGH41ro20i7_540.gif">
