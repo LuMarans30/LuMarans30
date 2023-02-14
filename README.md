@@ -1,4 +1,4 @@
-![LuMarans30's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuMarans30&show_icons=true&theme=synthwave)
+![LuMarans30's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuMarans30&show_icons=true&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
