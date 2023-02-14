@@ -7,3 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
   <img alt="github-snake" src="github-contribution-grid-snake.svg">
 </picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuMarans30&repo=AstralSafeServer)](https://github.com/LuMarans30/AstralSafeServer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuMarans30&repo=AstralSafeClient)](https://github.com/LuMarans30/AstralSafeClient)
