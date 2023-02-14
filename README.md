@@ -11,8 +11,8 @@
   
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<a href="#">
+		<img src="https://64.media.tumblr.com/f74d7cc35e3c4ed6fc11f560fe38b2a7/tumblr_inline_ny82m7qGH41ro20i7_540.gif" width="800" height="400">
 	</a>
 	<br>
 </div>
