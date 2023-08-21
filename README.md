@@ -1,5 +1,3 @@
-![LuMarans30's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuMarans30&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuMarans30&layout=compact&theme=dracula)](https://github.com/LuMarans30/github-readme-stats)
 
 <picture>
