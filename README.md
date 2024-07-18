@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=LuMarans30&hide=javascript,html,css,php,scss)
+![Top Langs](https://github-readme-stats-six-zeta-91.vercel.app/api/top-langs/?username=LuMarans30&hide=javascript,html,css,php,scss,hack)
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuMarans30/LuMarans30/output/github-contribution-grid-snake-dark.svg">
